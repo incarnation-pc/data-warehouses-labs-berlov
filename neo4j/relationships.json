@@ -1,0 +1,297 @@
+[
+  {
+    "source": "P01",
+    "target": "C01",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P02",
+    "target": "C01",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P03",
+    "target": "C01",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P04",
+    "target": "C02",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P05",
+    "target": "C02",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "C03",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P07",
+    "target": "C03",
+    "type": "MEMBER_OF",
+    "properties": {
+      "since": "2026-09-01"
+    }
+  },
+  {
+    "source": "P01",
+    "target": "E01",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P01",
+    "target": "E02",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P02",
+    "target": "E02",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P02",
+    "target": "E03",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P03",
+    "target": "E03",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P03",
+    "target": "E01",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P04",
+    "target": "E01",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P04",
+    "target": "E02",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P05",
+    "target": "E02",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P05",
+    "target": "E03",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "E03",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "E01",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P07",
+    "target": "E01",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P07",
+    "target": "E02",
+    "type": "ATTENDS",
+    "properties": {
+      "status": "зарегистрирован"
+    }
+  },
+  {
+    "source": "P01",
+    "target": "P02",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P02",
+    "target": "P03",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P03",
+    "target": "P04",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P04",
+    "target": "P05",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P05",
+    "target": "P06",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "P07",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P07",
+    "target": "P01",
+    "type": "KNOWS",
+    "properties": {
+      "since": "2026-09-15",
+      "context": "учебное сообщество"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "E01",
+    "type": "ORGANIZES",
+    "properties": {
+      "responsibility": "координация"
+    }
+  },
+  {
+    "source": "P06",
+    "target": "E02",
+    "type": "ORGANIZES",
+    "properties": {
+      "responsibility": "координация"
+    }
+  },
+  {
+    "source": "P07",
+    "target": "E03",
+    "type": "ORGANIZES",
+    "properties": {
+      "responsibility": "координация"
+    }
+  },
+  {
+    "source": "E01",
+    "target": "V01",
+    "type": "TAKES_PLACE_AT",
+    "properties": {
+      "duration_hours": 3
+    }
+  },
+  {
+    "source": "E02",
+    "target": "V01",
+    "type": "TAKES_PLACE_AT",
+    "properties": {
+      "duration_hours": 3
+    }
+  },
+  {
+    "source": "E03",
+    "target": "V01",
+    "type": "TAKES_PLACE_AT",
+    "properties": {
+      "duration_hours": 3
+    }
+  },
+  {
+    "source": "P04",
+    "target": "P01",
+    "type": "MENTORS",
+    "properties": {
+      "topic": "программирование"
+    }
+  },
+  {
+    "source": "P05",
+    "target": "P03",
+    "type": "MENTORS",
+    "properties": {
+      "topic": "программирование"
+    }
+  }
+]
